@@ -70,10 +70,11 @@
                     posts.forEach(post => {
                         const cleanedUpPostListItem = cleanupPostListItem(post)
                         postsHTML += `<div class="post">
-                            <h2>${post.name}</h2>
-                            <p>${post.id}</p>
-                            <p>${post.id}</p>
-                            <p>${post.id}</p>
+                            <h2>${cleanedUpPostListItem.name}</h2>
+                            <p>${cleanedUpPostListItem.id}</p>
+                            <p>${cleanedUpPostListItem.content}</p>
+                            <p>${cleanedUpPostListItem.created_at}</p>
+                            <p>${cleanedUpPostListItem.updated_at}</p>
                         </div>`;
                     });
                     document.getElementById('primary-rendering-area').innerHTML = postsHTML;
