@@ -1,30 +1,39 @@
-const http = require('http');
+const express = require('express');
+const request = require('request');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
-const server = http.createServer((req, res) => {
-  if (req.url === '/') {
-    // Define the path to your index.html
-    const indexPath = path.join(__dirname, 'index.html');
+const app = express();
 
-    // Read and serve the index.html file
-    fs.readFile(indexPath, (err, data) => {
-      if (err) {
-        res.writeHead(500);
-        return res.end('Error loading index.html');
-      }
-      res.writeHead(200, { 'Content-Type': 'text/html' });
-      res.end(data);
-    });
-  } else {
-    // Serve the figlet text for any other request
-    res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('check your route');
-  }
+console.log('#### is the token right', process.env.STAT_CMS_GH_PERSONAL_ACCESS_TOKEN)
+
+app.get('/', (req, res) => {
+  // Serve the index.html file
+  const indexPath = path.join(__dirname, 'index.html');
+  res.sendFile(indexPath);
+});
+
+app.get('/posts', (req, res) => {
+  const options = {
+    url: 'https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog',
+    headers: {
+      'User-Agent': 'request',
+      'Authorization': `token ${process.env.STAT_CMS_GH_PERSONAL_ACCESS_TOKEN}`
+    }
+  };
+
+  request(options, (error, response, body) => {
+    if (!error && response.statusCode == 200) {
+      res.json(JSON.parse(body));
+    } else {
+      res.json({ error: 'Unable to fetch data from GitHub' });
+    }
+    console.log("🚀 ~ file: index.js:29 ~ request ~ error:", error)
+  });
 });
 
 const PORT = 3000;
-server.listen(PORT, () => {
+app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
-

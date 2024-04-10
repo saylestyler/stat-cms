@@ -1,0 +1,498 @@
+[
+    {
+        "name": "about.md",
+        "path": "src/content/blog/about.md",
+        "sha": "72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+        "size": 1715,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/about.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/about.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/about.md?token=AE4R2XFZIAVT7PX4L5GQG4TGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/about.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/about.md"
+        }
+    },
+    {
+        "name": "benchmarking-dump.md",
+        "path": "src/content/blog/benchmarking-dump.md",
+        "sha": "783407bb70ca6e45b134c45bfbc30f60894583f6",
+        "size": 8276,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/benchmarking-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/benchmarking-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/783407bb70ca6e45b134c45bfbc30f60894583f6",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/benchmarking-dump.md?token=AE4R2XGRGKWQMPQDSNGK5QDGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/benchmarking-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/783407bb70ca6e45b134c45bfbc30f60894583f6",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/benchmarking-dump.md"
+        }
+    },
+    {
+        "name": "connecting-to-ur-sqlite3-imessage-db-x-python.md",
+        "path": "src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md",
+        "sha": "d096673d2d79ecc0183b91a222ee98fd2d4615b4",
+        "size": 3958,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d096673d2d79ecc0183b91a222ee98fd2d4615b4",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md?token=AE4R2XG6SLG4XXWXL65US4LGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d096673d2d79ecc0183b91a222ee98fd2d4615b4",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/connecting-to-ur-sqlite3-imessage-db-x-python.md"
+        }
+    },
+    {
+        "name": "css-dump.md",
+        "path": "src/content/blog/css-dump.md",
+        "sha": "d3bc4776f09afaaca089e32fb6c7f21dfcda3571",
+        "size": 9401,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/css-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/css-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d3bc4776f09afaaca089e32fb6c7f21dfcda3571",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/css-dump.md?token=AE4R2XFL3PPU2HEDG4CDOFLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/css-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d3bc4776f09afaaca089e32fb6c7f21dfcda3571",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/css-dump.md"
+        }
+    },
+    {
+        "name": "design-dump.md",
+        "path": "src/content/blog/design-dump.md",
+        "sha": "5075b7fe8e216c96e5e5c9b673c6785a850ffdb0",
+        "size": 24651,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/design-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/design-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/5075b7fe8e216c96e5e5c9b673c6785a850ffdb0",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/design-dump.md?token=AE4R2XFH6AQHOMPTGUQJ4ATGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/design-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/5075b7fe8e216c96e5e5c9b673c6785a850ffdb0",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/design-dump.md"
+        }
+    },
+    {
+        "name": "dev-dump.md",
+        "path": "src/content/blog/dev-dump.md",
+        "sha": "b43effc99f6d54d9200682a73e988de66431f82f",
+        "size": 19311,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/dev-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/dev-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b43effc99f6d54d9200682a73e988de66431f82f",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/dev-dump.md?token=AE4R2XG7FSIN7MUWCHNPHUTGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/dev-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b43effc99f6d54d9200682a73e988de66431f82f",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/dev-dump.md"
+        }
+    },
+    {
+        "name": "dostoyevsky-the-grand-inquistor.md",
+        "path": "src/content/blog/dostoyevsky-the-grand-inquistor.md",
+        "sha": "13ec2e00527a0d1d59b2cc711f94c91b8b7ac6a0",
+        "size": 56476,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/dostoyevsky-the-grand-inquistor.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/dostoyevsky-the-grand-inquistor.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/13ec2e00527a0d1d59b2cc711f94c91b8b7ac6a0",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/dostoyevsky-the-grand-inquistor.md?token=AE4R2XCZ2UK37GVCH35Z3FLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/dostoyevsky-the-grand-inquistor.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/13ec2e00527a0d1d59b2cc711f94c91b8b7ac6a0",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/dostoyevsky-the-grand-inquistor.md"
+        }
+    },
+    {
+        "name": "funny-dev-dump.md",
+        "path": "src/content/blog/funny-dev-dump.md",
+        "sha": "1f2c2b6486beaccd2fb053a53c354ab183166a4f",
+        "size": 7636,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/funny-dev-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/funny-dev-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/1f2c2b6486beaccd2fb053a53c354ab183166a4f",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/funny-dev-dump.md?token=AE4R2XDWQ5I457NA4E57CYLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/funny-dev-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/1f2c2b6486beaccd2fb053a53c354ab183166a4f",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/funny-dev-dump.md"
+        }
+    },
+    {
+        "name": "image.png",
+        "path": "src/content/blog/image.png",
+        "sha": "8feaadc694e51d8b924ad817f36a2f601b54f9f2",
+        "size": 3584434,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/image.png?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/image.png",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/8feaadc694e51d8b924ad817f36a2f601b54f9f2",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/image.png?token=AE4R2XB2C2DQQARDTOXZSGLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/image.png?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/8feaadc694e51d8b924ad817f36a2f601b54f9f2",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/image.png"
+        }
+    },
+    {
+        "name": "isnt-markdown-cool.md",
+        "path": "src/content/blog/isnt-markdown-cool.md",
+        "sha": "d3250be71612c272bdc0d087871f0091374c35cd",
+        "size": 3032,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/isnt-markdown-cool.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/isnt-markdown-cool.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d3250be71612c272bdc0d087871f0091374c35cd",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/isnt-markdown-cool.md?token=AE4R2XCNJVYRHTIFISFKKZTGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/isnt-markdown-cool.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/d3250be71612c272bdc0d087871f0091374c35cd",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/isnt-markdown-cool.md"
+        }
+    },
+    {
+        "name": "it-does-indeed-exist-on-combined-vue-instance.md",
+        "path": "src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md",
+        "sha": "7f9c96466632f41c750d2982ca49a049ee704f88",
+        "size": 1304,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/7f9c96466632f41c750d2982ca49a049ee704f88",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md?token=AE4R2XDBTLF4336IIYN7C23GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/7f9c96466632f41c750d2982ca49a049ee704f88",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/it-does-indeed-exist-on-combined-vue-instance.md"
+        }
+    },
+    {
+        "name": "literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md",
+        "path": "src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md",
+        "sha": "66c0709dbd633a061b9d10a5218fe1043c62c71c",
+        "size": 3431,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/66c0709dbd633a061b9d10a5218fe1043c62c71c",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md?token=AE4R2XHL3WUI5AS6NR73U23GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/66c0709dbd633a061b9d10a5218fe1043c62c71c",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/literally-just-how-to-fetch-data-in-vue3-single-file-component-and-like-render-it.md"
+        }
+    },
+    {
+        "name": "live-studio-audience-noises.md",
+        "path": "src/content/blog/live-studio-audience-noises.md",
+        "sha": "f225fa11dadc4dc7b2a8a828e7e2dc21d4d0a78a",
+        "size": 2552,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/live-studio-audience-noises.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/live-studio-audience-noises.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/f225fa11dadc4dc7b2a8a828e7e2dc21d4d0a78a",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/live-studio-audience-noises.md?token=AE4R2XAH5XBGWVZOWNI253TGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/live-studio-audience-noises.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/f225fa11dadc4dc7b2a8a828e7e2dc21d4d0a78a",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/live-studio-audience-noises.md"
+        }
+    },
+    {
+        "name": "mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md",
+        "path": "src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md",
+        "sha": "04e89f8c6e54166c0cd009e53cf9bfceb6cc6565",
+        "size": 5377,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/04e89f8c6e54166c0cd009e53cf9bfceb6cc6565",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md?token=AE4R2XEMXIHVJXJL47L2NCLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/04e89f8c6e54166c0cd009e53cf9bfceb6cc6565",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/mozilla-observatory-edits-for-vuepress-with-netlify-deploy.md"
+        }
+    },
+    {
+        "name": "music-dump.md",
+        "path": "src/content/blog/music-dump.md",
+        "sha": "63868d45a1bd757c6f0d0f7001998d8e5fa98381",
+        "size": 6708,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/music-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/music-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/63868d45a1bd757c6f0d0f7001998d8e5fa98381",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/music-dump.md?token=AE4R2XELI6HAF6KXDBH6J3LGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/music-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/63868d45a1bd757c6f0d0f7001998d8e5fa98381",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/music-dump.md"
+        }
+    },
+    {
+        "name": "nice-vue.md",
+        "path": "src/content/blog/nice-vue.md",
+        "sha": "458ffdfa3a1f84326596ca2d11487810930a0aee",
+        "size": 2203,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/nice-vue.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/nice-vue.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/458ffdfa3a1f84326596ca2d11487810930a0aee",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/nice-vue.md?token=AE4R2XE4KXDN256BJQXHOGDGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/nice-vue.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/458ffdfa3a1f84326596ca2d11487810930a0aee",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/nice-vue.md"
+        }
+    },
+    {
+        "name": "note-on-typing-dynamic-vue-components-with-typescript.md",
+        "path": "src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md",
+        "sha": "33802995e9dd52c3b8c612253c69af55c731deb6",
+        "size": 1888,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/33802995e9dd52c3b8c612253c69af55c731deb6",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md?token=AE4R2XDC7SMMTI4ILBL6JQ3GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/33802995e9dd52c3b8c612253c69af55c731deb6",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/note-on-typing-dynamic-vue-components-with-typescript.md"
+        }
+    },
+    {
+        "name": "property-access-modifiers-in-typescript.md",
+        "path": "src/content/blog/property-access-modifiers-in-typescript.md",
+        "sha": "1a561e02a801690ce9382feab69e729f861c4da2",
+        "size": 1097,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/property-access-modifiers-in-typescript.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/property-access-modifiers-in-typescript.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/1a561e02a801690ce9382feab69e729f861c4da2",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/property-access-modifiers-in-typescript.md?token=AE4R2XBEMXBIYMBIPXV7UFLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/property-access-modifiers-in-typescript.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/1a561e02a801690ce9382feab69e729f861c4da2",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/property-access-modifiers-in-typescript.md"
+        }
+    },
+    {
+        "name": "python-path.md",
+        "path": "src/content/blog/python-path.md",
+        "sha": "c3f88486b895715d81aa9dcb22c85e2afd74ccc3",
+        "size": 2327,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/python-path.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/python-path.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/c3f88486b895715d81aa9dcb22c85e2afd74ccc3",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/python-path.md?token=AE4R2XHPKJSUSELTXQR2MFLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/python-path.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/c3f88486b895715d81aa9dcb22c85e2afd74ccc3",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/python-path.md"
+        }
+    },
+    {
+        "name": "rust-gourd-boggling.md",
+        "path": "src/content/blog/rust-gourd-boggling.md",
+        "sha": "4a1b31acfbd938d4ab0a950ace38656ea86f3404",
+        "size": 2393,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/rust-gourd-boggling.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/rust-gourd-boggling.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/4a1b31acfbd938d4ab0a950ace38656ea86f3404",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/rust-gourd-boggling.md?token=AE4R2XGO3QRSCNKJKOBUYLLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/rust-gourd-boggling.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/4a1b31acfbd938d4ab0a950ace38656ea86f3404",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/rust-gourd-boggling.md"
+        }
+    },
+    {
+        "name": "staging-deployment-on-the-frontend.md",
+        "path": "src/content/blog/staging-deployment-on-the-frontend.md",
+        "sha": "2eb1eb114385bb9765659d7222e6fcffc2e78ade",
+        "size": 6446,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/staging-deployment-on-the-frontend.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/staging-deployment-on-the-frontend.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/2eb1eb114385bb9765659d7222e6fcffc2e78ade",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/staging-deployment-on-the-frontend.md?token=AE4R2XDMQCB2NPAJYYEDQ53GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/staging-deployment-on-the-frontend.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/2eb1eb114385bb9765659d7222e6fcffc2e78ade",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/staging-deployment-on-the-frontend.md"
+        }
+    },
+    {
+        "name": "state-of-the-static-site-generator-union.md",
+        "path": "src/content/blog/state-of-the-static-site-generator-union.md",
+        "sha": "00320f16745b12273d833f5232e361f4eca7fd12",
+        "size": 13766,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/state-of-the-static-site-generator-union.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/state-of-the-static-site-generator-union.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/00320f16745b12273d833f5232e361f4eca7fd12",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/state-of-the-static-site-generator-union.md?token=AE4R2XBS74Q2IZESGEQA7T3GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/state-of-the-static-site-generator-union.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/00320f16745b12273d833f5232e361f4eca7fd12",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/state-of-the-static-site-generator-union.md"
+        }
+    },
+    {
+        "name": "swpvimec2.md",
+        "path": "src/content/blog/swpvimec2.md",
+        "sha": "b3fb664e0c67ad8051fc98f4403451f7df04ef5e",
+        "size": 4639,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/swpvimec2.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/swpvimec2.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b3fb664e0c67ad8051fc98f4403451f7df04ef5e",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/swpvimec2.md?token=AE4R2XAJVKBFJ3DVBHO45C3GCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/swpvimec2.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b3fb664e0c67ad8051fc98f4403451f7df04ef5e",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/swpvimec2.md"
+        }
+    },
+    {
+        "name": "the-magical-howdoi-cli-util.md",
+        "path": "src/content/blog/the-magical-howdoi-cli-util.md",
+        "sha": "5593297a51db41186dcc8b6842e1779bf7fb4157",
+        "size": 8197,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/the-magical-howdoi-cli-util.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/the-magical-howdoi-cli-util.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/5593297a51db41186dcc8b6842e1779bf7fb4157",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/the-magical-howdoi-cli-util.md?token=AE4R2XHXTXXDU3WAOTW26QLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/the-magical-howdoi-cli-util.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/5593297a51db41186dcc8b6842e1779bf7fb4157",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/the-magical-howdoi-cli-util.md"
+        }
+    },
+    {
+        "name": "the-magical-ranger-util-lol.md",
+        "path": "src/content/blog/the-magical-ranger-util-lol.md",
+        "sha": "2c8e26f1ab4c65613ac965961e0ff95017715903",
+        "size": 5864,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/the-magical-ranger-util-lol.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/the-magical-ranger-util-lol.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/2c8e26f1ab4c65613ac965961e0ff95017715903",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/the-magical-ranger-util-lol.md?token=AE4R2XGZNN4NBXZMHMZMG7TGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/the-magical-ranger-util-lol.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/2c8e26f1ab4c65613ac965961e0ff95017715903",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/the-magical-ranger-util-lol.md"
+        }
+    },
+    {
+        "name": "tmux-ephiphany-followed-by-others-of-larger-grander-scale.md",
+        "path": "src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md",
+        "sha": "819c39275a785bac4994f08b771b2e05db3d9704",
+        "size": 1958,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/819c39275a785bac4994f08b771b2e05db3d9704",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md?token=AE4R2XF33UKMD43BBE66D5LGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/819c39275a785bac4994f08b771b2e05db3d9704",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/tmux-ephiphany-followed-by-others-of-larger-grander-scale.md"
+        }
+    },
+    {
+        "name": "username-already-taken",
+        "path": "src/content/blog/username-already-taken",
+        "sha": "7fd38b38ab54784fb769f5672866f75cae80b648",
+        "size": 1660,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/username-already-taken?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/username-already-taken",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/7fd38b38ab54784fb769f5672866f75cae80b648",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/username-already-taken?token=AE4R2XGNYKVQKD4RTFBYLCLGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/username-already-taken?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/7fd38b38ab54784fb769f5672866f75cae80b648",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/username-already-taken"
+        }
+    },
+    {
+        "name": "username-already-taken.md",
+        "path": "src/content/blog/username-already-taken.md",
+        "sha": "b0da627dbc40a3088ea4cd92c67e125ef8d7a0ee",
+        "size": 1957,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/username-already-taken.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/username-already-taken.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b0da627dbc40a3088ea4cd92c67e125ef8d7a0ee",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/username-already-taken.md?token=AE4R2XCDD5UYFYRVJIMDDWTGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/username-already-taken.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/b0da627dbc40a3088ea4cd92c67e125ef8d7a0ee",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/username-already-taken.md"
+        }
+    },
+    {
+        "name": "vim-dump.md",
+        "path": "src/content/blog/vim-dump.md",
+        "sha": "59604ba93d3e7475992ed1c46c5d56932971168d",
+        "size": 10804,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/vim-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/vim-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/59604ba93d3e7475992ed1c46c5d56932971168d",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/vim-dump.md?token=AE4R2XE65UINVI6W2WQBNLDGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/vim-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/59604ba93d3e7475992ed1c46c5d56932971168d",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/vim-dump.md"
+        }
+    },
+    {
+        "name": "wordle-source-code-mystery.md",
+        "path": "src/content/blog/wordle-source-code-mystery.md",
+        "sha": "93b0a55ccd3dde3df06fbe310b7a0152d946a659",
+        "size": 2136,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/wordle-source-code-mystery.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/wordle-source-code-mystery.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/93b0a55ccd3dde3df06fbe310b7a0152d946a659",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/wordle-source-code-mystery.md?token=AE4R2XALVLAOOUYNIKBOT5LGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/wordle-source-code-mystery.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/93b0a55ccd3dde3df06fbe310b7a0152d946a659",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/wordle-source-code-mystery.md"
+        }
+    },
+    {
+        "name": "zoc7-and-ssh-dump.md",
+        "path": "src/content/blog/zoc7-and-ssh-dump.md",
+        "sha": "3437b79396d936950c19b30ebcae6eaddfd50af1",
+        "size": 11174,
+        "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/zoc7-and-ssh-dump.md?ref=main",
+        "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/zoc7-and-ssh-dump.md",
+        "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/3437b79396d936950c19b30ebcae6eaddfd50af1",
+        "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/zoc7-and-ssh-dump.md?token=AE4R2XAIPXVGDKDTL2ZTDKDGCXHCK",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/zoc7-and-ssh-dump.md?ref=main",
+            "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/3437b79396d936950c19b30ebcae6eaddfd50af1",
+            "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/zoc7-and-ssh-dump.md"
+        }
+    }
+]
