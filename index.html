@@ -3,8 +3,18 @@
 
 <head>
     <title>stat cms</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/picnic">
+    <link rel="stylesheet" href="/reset.css">
     <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+
     <style>
+        .main-content {
+          background-color: #1F23A3;
+          color: #3740FF;
+        }
+
         .button-container {
             position: absolute;
             right: 0;
@@ -24,38 +34,67 @@
             height: 400px;
             width: 600px;
         }
+
+        .gorg-blurple {
+          color: #3740FF
+        }
     </style>
 </head>
 
-<body>
-    <div class="button-container">
-        <button>Cloudinary</button>
-        <button>Save</button>
-        <button style="background-color: red;">Cancel</button>
-    </div>
-    <!-- initialization of quill; editor replaces this div-->
+<body class="main-content flex">
+   <div class="button-container">
+     <button>Cloudinary</button>
+     <button>Save</button>
+     <button style="background-color: red;">Cancel</button>
+   </div>
+
+  <!-- initialization of quill; editor replaces this div-->
+  <!-- we dont want to load this if we're on list view -->
+  <div class="flex flex-row align-center items-center" style="width: 500px">
     <div id="editor"></div>
-    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
-    <script>
-        var quill = new Quill('#editor', {
-            theme: 'snow'
-        });
-    </script>
-    <div id="primary-rendering-area"></div>
+  </div>
 
-    </div>
+  <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+  <script>
+      var quill = new Quill('#editor', {
+          theme: 'snow'
+      });
+  </script>
+  <div id="primary-rendering-area"></div>
 
-    <script>
-        const cleanupPostListItem = (post) => {
-            const cleanedUpPostListItem = {
-                id: post.id,
-                name: post.name,
-                content: post.content,
-                created_at: post.created_at,
-                updated_at: post.updated_at
-            }
-            return cleanedUpPostListItem
-        }
+  </div>
+
+  <script>
+
+//     [
+//     "name",
+//     "path",
+//     "sha",
+//     "size",
+//     "url",
+//     "html_url",
+//     "git_url",
+//     "download_url",
+//     "type",
+//     "_links"
+// ]
+
+// {
+//     "name": "about.md",
+//     "path": "src/content/blog/about.md",
+//     "sha": "72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+//     "size": 1715,
+//     "url": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/about.md?ref=main",
+//     "html_url": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/about.md",
+//     "git_url": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+//     "download_url": "https://raw.githubusercontent.com/saylestyler/tylersayles/main/src/content/blog/about.md?token=AE4R2XDQTIZHAM32RSB4PPDGCYE4M",
+//     "type": "file",
+//     "_links": {
+//         "self": "https://api.github.com/repos/saylestyler/tylersayles/contents/src/content/blog/about.md?ref=main",
+//         "git": "https://api.github.com/repos/saylestyler/tylersayles/git/blobs/72860a4aafa2cc34de3dcc9d7129ed95478ffd16",
+//         "html": "https://github.com/saylestyler/tylersayles/blob/main/src/content/blog/about.md"
+//     }
+// }
         const getAllPosts = () => {
             console.log("🚀 getAllPosts was called:")
 
@@ -68,22 +107,40 @@
                     if (Array.isArray(posts) && posts.length === 0) return []
 
                     posts.forEach(post => {
-                        const cleanedUpPostListItem = cleanupPostListItem(post)
+                    console.log(`🟦  ~ getAllPosts ~ post:`, post)
                         postsHTML += `<div class="post">
-                            <h2>${cleanedUpPostListItem.name}</h2>
-                            <p>${cleanedUpPostListItem.id}</p>
-                            <p>${cleanedUpPostListItem.content}</p>
-                            <p>${cleanedUpPostListItem.created_at}</p>
-                            <p>${cleanedUpPostListItem.updated_at}</p>
+                            <h2>${post.name}</h2>
+                            <p>${post.id}</p>
+                            <p>${post.content}</p>
+                            <p>${post.created_at}</p>
+                            <p>${post.updated_at}</p>
                         </div>`;
                     });
                     document.getElementById('primary-rendering-area').innerHTML = postsHTML;
                 })
-            // .catch(error => console.error('Error:', error));
+            .catch(error => console.error('Error:', error));
 
         }
 
         getAllPosts()
+
+        const handleListItemClick = (url) => {
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ url }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // load data into quill
+                const content = data.content;
+                   quill.root.innerHTML = content;
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
         // this will be done via github's api, for now it's static json object
     </script>
 </body>
